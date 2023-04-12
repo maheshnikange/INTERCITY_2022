@@ -1,0 +1,156 @@
+BRCD  TOTACC  TOTPGS COSCTR         BRANCH_NAME
+5101       1       1 01011       BR JOHOR BHARU
+5102       4       4 01020    BR PONTIAN KECHIL
+5104       1       1 01048              BR MUAR
+5106       7       7 01066            BR KLUANG
+5107       2       2 01075       BR KOTA TINGGI
+5109       1       1 01093           BR MERSING
+5110       2       2 01105             BR KULAI
+5111       1       1 01114             BR LABIS
+5113       2       2 01132        BR JLN LARKIN
+5120       1       1 01208           BR  SKUDAI
+5124       1       1 01244      BR PASIR GUDANG
+5125       1       1 01253            BR TAMPOI
+5128       1       1 01280          BR TMN DAYA
+5130       1       1 01301    BR TMN UNIVERSITI
+5141       2       2 01413   BR J.SULAIMAN MUAR
+5144       3       3 01440            BR RENGIT
+5146       2       2 01468   BR BKT PASIR B PHT
+5153       1       1 01534         BR TMN MOLEK
+5159       5       5 01598   CPI LARKIN PERDANA
+5162       1       1 01628  BR SETIA TROPIKA JB
+5202       2       2 02027         BR ALOR STAR
+5204       2       2 02045            BR BALING
+5205       2       2 02054         BR SG PETANI
+5206       1       1 02063             BR JITRA
+5209       5       5 02090           BR MERGONG
+5211       2       2 02111     BR KULIM HT PARK
+5301       2       2 03015        BR KOTA BHARU
+5305       1       1 03051       BR TANAH MERAH
+5310       1       1 03109       CPI KOTA BHARU
+5402       5       5 04021       BR MELAKA MAIN
+5404       1       1 04049        BR ALOR GAJAH
+5410       3       3 04106      BR MASJID TANAH
+5411       1       1 04115        BR AYER KEROH
+5412       1       1 04124             BR CHENG
+5503       1       1 05037             BR BAHAU
+5505       3       3 05055      BR PULAU SEBANG
+5506       1       1 05064     BR KUALA KLAWANG
+5512       1       1 05121          BR SENAWANG
+5601       4       4 06016           BR KUANTAN
+5602       2       2 06025          BR MENTAKAB
+5603       1       1 06034      BR KUALA ROMPIN
+5605       6       6 06052          BR TEMERLOH
+5608       2       2 06089             BR KARAK
+5611       2       2 06119       BR KUALA LIPIS
+5612       2       2 06128      BR MUADZAM SHAH
+5613       1       1 06137           BR BENTONG
+5616       8       8 06164       BR JLN BESERAH
+5620       3       3 06203          BR JERANTUT
+5623       1       1 06230             BR PEKAN
+5701       1       1 07013       BR PENANG MAIN
+5704       2       2 07040         BR PLAZA MWE
+5705       2       2 07059       BR PENANG ROAD
+5706       1       1 07068       BR PULAU TIKUS
+5710       1       1 07107      BR NIBONG TEBAL
+5713       3       3 07134       BR BAYAN LEPAS
+5714       1       1 07143    BR TANJUNG BUNGAH
+5715       1       1 07152           BR GELUGUR
+5716       1       1 07161   BR PRAI IND ESTATE
+5722       4       4 07228     BR SIMPANG AMPAT
+5732       2       2 07321              BR ALMA
+5733       2       2 07330        BR AYER HITAM
+5738       7       7 07385       CPI GEORGETOWN
+5740       2       2 07406     BR SEBERANG JAYA
+5802       3       3 08029    BR J S IDRIS SHAH
+5805       1       1 08056           BR TAIPING
+5808      10      10 08083     BR TANJUNG MALIM
+5811       1       1 08113        BR BATU GAJAH
+5812       1       1 08122             BR TAPAH
+5817       5       5 08177       BR IPOH GARDEN
+5818       1       1 08186      BR PANTAI REMIS
+5820       1       1 08207          BR SG SIPUT
+5822       6       6 08225          BR JELAPANG
+5828       8       8 08289           BR BERCHAM
+5829       5       5 08298          BR SETIAWAN
+5830       2       2 08300         BR KAMUNTING
+5838       1       1 08382   BR HUTAN MELINTANG
+5901       2       2 09017            BR KANGAR
+6002       2       2 10022          BR SANDAKAN
+6003       4       4 10031             BR TAWAU
+6004       4       4 10040          BR SEMPORNA
+6005       1       1 10059        BR LAHAD DATU
+6006       1       1 10068             BR KUDAT
+6009       2       2 10095          BR KENINGAU
+6010       6       6 10107     BR JLN PERPADUAN
+6013       7       7 10134          BR SIPITANG
+6014       1       1 10143       BR KARAMUNSING
+6016       6       6 10161  BR PRIMA SQUARE,SDK
+6018       2       2 10189           BR PUTATAN
+6019       3       3 10198     BR LINTAS SQUARE
+6023       4       4 10237       BR ALAMESRA KK
+6026       6       6 10264      BR RANAU, SABAH
+6029       4       4 10291        BR DONGGONGON
+6101       1       1 11010              BR MIRI
+6102       2       2 11029           BR LIMBANG
+6103       2       2 11038   BR JLN TAR KUCHING
+6105       2       2 11056              BR SIBU
+6109       4       4 11092             BR KAPIT
+6112       1       1 11122   BR PELITA COMM CTR
+6116       1       1 11168               BR BAU
+6118       1       1 11186     BR BOULEVARD CTR
+6121       2       2 11216      BR SIBU CENTRAL
+6123       3       3 11234   BR KUCHING SELATAN
+6129       4       4 11298       BR MATANG JAYA
+6201       1       1 12017            BR RAWANG
+6202       3       3 12026            BR KAJANG
+6205       1       1 12053           BR BANTING
+6208       2       2 12080    BR SUBANG PERDANA
+6209       1       1 12099      BR SABAK BERNAM
+6210       2       2 12101         BR SHAH ALAM
+6214       4       4 12147   BR TMN SRI SERDANG
+6218       1       1 12183   BR TMN SETIAWANGSA
+6221       1       1 12213     BR SEC 18 S ALAM
+6223       1       1 12231            BR SS2 PJ
+6224       1       1 12240         BR TMN PUTRA
+6226       2       2 12268    BR BDR BARU BANGI
+6227       1       1 12277     BR SEC 20 S ALAM
+6229       1       1 12295       BR PJ OLD TOWN
+6231       2       2 12316        BR BDR SUNWAY
+6236       1       1 12361        BR USJ SUBANG
+6240       1       1 12400    BR TMN SRI GOMBAK
+6245       1       1 12455        BR PANDAMARAN
+6246       1       1 12464    BR M KLG JR HASAN
+6252       2       2 12521          BR SEMENYIH
+6275       1       1 12754   BR GIZA KOTA DSARA
+6277       2       2 12772     BR PUCHONG PRIMA
+6284       3       3 12848    BR BDR SETIA ALAM
+6290       3       3 12905  BR BDR BKT TINGGI 1
+6298       1       1 12987    BR SERI KEMBANGAN
+6301       6       6 13014       BR KUALA TGANU
+6303       1       1 13032      BR KUALA BERANG
+6304       5       5 13041            BR JERTIH
+6305       2       2 13050            BR KERTEH
+6308       2       2 13087              BR PAKA
+6309       1       1 13096            BR DUNGUN
+6404       2       2 14048          BR JLN PUDU
+6412       1       1 14123      BR BANGSAR BARU
+6415       2       2 14150     BR JLN RAJA LAUT
+6419       1       1 14196       BR DSARA UTAMA
+6423       1       1 14235       BR KOMP BANDAR
+6424       1       1 14244           BR JINJANG
+6430       3       3 14301        BR JLN 222 PJ
+6432       3       3 14329     BR DSARA HEIGHTS
+6438       1       1 14383      BR PANDAN INDAH
+6440       1       1 14404        BR TMN MALURI
+6448       1       1 14486        BR MID VALLEY
+6449       2       2 14495              BR KLCC
+6454       3       3 14543       BR DESA PANDAN
+6458       1       1 14589      BR KEPONG PRIMA
+6468       1       1 14682          BR P RAMLEE
+6471       1       1 14712        BR KL SENTRAL
+6481       6       6 14815      BR SEC 5 W MAJU
+6485       1       1 14851        BR ALAM DAMAI
+6487       1       1 14879    BR DESA PARK CITY
+6489       1       1 14897        BR MONT KIARA
+6601       2       2 16015        BR PUTRA JAYA

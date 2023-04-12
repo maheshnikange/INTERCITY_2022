@@ -1,0 +1,76 @@
+Pro Office Solutions Sdn. Bhd.
+FIRST REMINDER
+=============================================================
+Program ID           : FIRST REMINDER.PDS
+Paper Type           :
+File Name (PDF)      : R1 31102022_011122.srt.PDF
+Data Name (TXT)      : BKR_C18.TXT
+Total Accounts       :        5
+Total Pages          :        5
+Total Impression     :        10
+First Record         : 11111111111
+Last Record          : 2222222222
+=============================================================
+CUSTOMER NAME        : BSN                                   
+=============================================================
+Date & Time processed: 21/Dec/2022    14:19:04        14:19:06
+
+
+
+Pro Office Solutions Sdn. Bhd.
+FIRST REMINDER
+=============================================================
+Program ID           : FIRST REMINDER.PDS
+Paper Type           :
+File Name (PDF)      : R1 31102022_011122.srt.PDF
+Data Name (TXT)      : BKR_C18233.TXT
+Total Accounts       :        15
+Total Pages          :        15
+Total Impression     :        30
+First Record         : 11111111111
+Last Record          : 2222222222
+=============================================================
+CUSTOMER NAME        : BSN                                   
+=============================================================
+Date & Time processed: 21/Dec/2022    14:19:06        14:19:14
+
+
+
+Pro Office Solutions Sdn. Bhd.
+FIRST REMINDER
+=============================================================
+Program ID           : FIRST REMINDER.PDS
+Paper Type           :
+File Name (PDF)      : R1 31102022_011122.srt.PDF
+Data Name (TXT)      : C18MAR22.TXT
+Total Accounts       :        5
+Total Pages          :        5
+Total Impression     :        10
+First Record         : 11111111111
+Last Record          : 2222222222
+=============================================================
+CUSTOMER NAME        : BSN                                   
+=============================================================
+Date & Time processed: 21/Dec/2022    14:19:14        14:19:16
+
+
+
+Pro Office Solutions Sdn. Bhd.
+FIRST REMINDER
+=============================================================
+Program ID           : FIRST REMINDER.PDS
+Paper Type           :
+File Name (PDF)      : R1 31102022_011122.srt.PDF
+Data Name (TXT)      : C18MAR22.TXT
+Total Accounts       :        5
+Total Pages          :        5
+Total Impression     :        10
+First Record         : 11111111111
+Last Record          : 2222222222
+=============================================================
+CUSTOMER NAME        : BSN                                   
+=============================================================
+Date & Time processed: 27/Dec/2022    12:53:12        12:53:16
+
+
+

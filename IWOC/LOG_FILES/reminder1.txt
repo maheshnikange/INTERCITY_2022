@@ -1,0 +1,57 @@
+INTERCITY  MPC (M) Sdn. Bhd.
+FIRST REMINDER
+=============================================================
+Program ID           : FIRST REMINDER.PDS
+Paper Type           :
+File Name (PDF)      : rem11.pdf
+Data Name (TXT)      : R1 21112022-24112022_2.xlsx
+Total Accounts       :        9
+Total Pages          :        9
+Total Impression     :        18
+First Record         : 141007204070022
+Last Record          : 61006702286303
+=============================================================
+CUSTOMER NAME        : BSN                                   
+=============================================================
+Date & Time processed: 28/Dec/2022    11:23:54        11:23:55
+
+
+
+INTERCITY  MPC (M) Sdn. Bhd.
+FIRST REMINDER
+=============================================================
+Program ID           : FIRST REMINDER.PDS
+Paper Type           :
+File Name (PDF)      : rem11.pdf
+Data Name (TXT)      : R1 21112022-24112022_2.xlsx
+Total Accounts       :        9
+Total Pages          :        9
+Total Impression     :        18
+First Record         : 141007204070022
+Last Record          : 61006702286303
+=============================================================
+CUSTOMER NAME        : BSN                                   
+=============================================================
+Date & Time processed: 28/Dec/2022    11:28:42        11:28:44
+
+
+
+INTERCITY  MPC (M) Sdn. Bhd.
+FIRST REMINDER
+=============================================================
+Program ID           : FIRST REMINDER.PDS
+Paper Type           :
+File Name (PDF)      : rem11.pdf
+Data Name (TXT)      : R1 21112022-24112022_2.xlsx
+Total Accounts       :        9
+Total Pages          :        9
+Total Impression     :        18
+First Record         : 141007204070022
+Last Record          : 61006702286303
+=============================================================
+CUSTOMER NAME        : BSN                                   
+=============================================================
+Date & Time processed: 28/Dec/2022    11:31:05        11:31:06
+
+
+
